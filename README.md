@@ -42,6 +42,11 @@
 💼 LinkedIn: [linkedin.com/in/sumit-chaudhari-907671231](https://www.linkedin.com/in/sumit-chaudhari-907671231/)  
 💻 GitHub: [github.com/SumitC962](https://github.com/SumitC962)  
 
+# 📊 GitHub Stats & Activity  
+![Sumit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SumitC962&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitC962&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SumitC962&theme=radical)  
+
 ---
 
 ✨ *“Always learning, always building.”*
